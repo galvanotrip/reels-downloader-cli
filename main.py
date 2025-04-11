@@ -1,3 +1,13 @@
+# ================================================================
+# ⚠️ LEGAL DISCLAIMER:
+# This script is provided for educational and personal use only.
+# Downloading content from Instagram may violate their Terms of Use.
+# https://help.instagram.com/581066165581870
+#
+# This tool is NOT affiliated with Instagram or Meta Platforms.
+# You are solely responsible for using it legally and ethically.
+# ================================================================
+
 import instaloader
 import logging
 import os
